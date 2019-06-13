@@ -19,7 +19,8 @@ Step 4: capture the generated packets using wireshark.
 
 Step 5: The generated packets can also be captured by lib61850 receiver program in Linux platform and infotech SAV receiver program in windows platform
    
+   
 
 For S-GoSV library: Part -1 - RSA digital signatures and MAC implementations, visit https://github.com/61850security/S-GoSV-part-1
 
-   S-GoSV library: Part -2 - Authenticated Encryption (AEAD), visit https://github.com/61850security/S-GoSV
+For S-GoSV library: Part -2 - Authenticated Encryption (AEAD), visit https://github.com/61850security/S-GoSV

@@ -8,6 +8,13 @@ For S-GoSV library: Part -2 - Authenticated Encryption (AEAD), visit https://git
 
 For R-GoSV library - Routable GOOSE (R-GOOSE) and Routable SV (R-SV), visit https://github.com/61850security/R-GoSV
 
+### Citing GoSV, S-GoSV and R-GoSV libraries
+We request that publications derived from the use of GoSV, S-GoSV and R-GoSV, explicitly acknowledge that fact by citing the appropriate papers and the library itself.
+
+#### Papers:
+
+S.M. Suhail Hussain, S.M. Farooq and Taha Selim Ustun, “Analysis and Implementation of Message Authentication Code (MAC) Algorithms for GOOSE Message Security”,  IEEE Access, 2019. DOI: [10.1109/ACCESS.2019.2923728](https://ieeexplore.ieee.org/document/8740995)
+
 
 ## Documentation
 ### Installation

@@ -25,4 +25,6 @@ Step 5: The generated packets can also be captured by lib61850 receiver program 
 
 For S-GoSV library: Part -1 - RSA digital signatures and MAC implementations, visit https://github.com/61850security/S-GoSV-part-1
 
-For S-GoSV library: Part -2 - Authenticated Encryption (AEAD), visit https://github.com/61850security/S-GoSV
+For S-GoSV library: Part -2 - Authenticated Encryption (AEAD), visit https://github.com/61850security/S-GoSV-part-2
+
+For R-GoSV library - Routable GOOSE (R-GOOSE) and Routable SV (R-SV), visit https://github.com/61850security/R-GoSV
